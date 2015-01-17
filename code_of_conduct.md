@@ -3,7 +3,7 @@ CodeOfConduct4Lib
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Code4Lib seeks to provide a welcoming, fun, and safe community and
+Code4KC seeks to provide a welcoming, fun, and safe community and
 conference experience and ongoing community for everyone. We do not
 tolerate harassment in any form. Discriminatory language and imagery
 (including sexual) is not appropriate for any event venue, including talks,
@@ -35,16 +35,9 @@ attention.
     actively harassing you, then you will need a third party to step in.
 
     If you are at a conference or other event, find the event organizer or
-    staff person. For #c4l13, that would be Francis Kayiwa. If you can't find 
+    staff person. For weekly meetings, that would be Paul Barham. If you can't find 
     the event organizer, there will be other staff available to help if the
     situation calls for immediate action.
-
-    If you are in the #code4lib IRC, the zoia command to list people
-    designated as channel helpers is @helpers . I'd assume that there is
-    at least one helper in the channel at most times.
-
-    For the listserv, you have a free-for-all for public messages; however,
-    the listserv does have a maintainer, Eric Lease Morgan.
 
 3. Wider community response to Incident:
 
@@ -55,7 +48,7 @@ attention.
 
     If incident results in corrective action, the community should support
     the decision made by the Help in Step 2 if they choose corrective action,
-    like ending a talk early or banning from the listserv, as well as
+    like ending a talk early, as well as
     support those harmed by the incident, either publicly or privately
     (whatever individuals are comfortable with).
 
@@ -76,7 +69,7 @@ attention.
 Participants asked to stop any harassing behavior are expected to comply
 immediately.  If a participant engages in harassing behavior, organizers may
 take any action they deem appropriate, including warning the offender,
-expulsion from the Code4Lib event, or banning the offender from a chatroom
+expulsion from the Code4KC event, or banning the offender from a chatroom
 or mailing list.
 
 Specific sanctions may include but are not limited to:
@@ -90,34 +83,32 @@ proximity to, their victim for the remainder of the event
 * not allowing a speaker who violated the policy to give (further) talks at
 the event
 * immediately ending any event volunteer responsibilities and privileges the
-harasser holds requiring that the harasser not volunteer for future Code4lib
+harasser holds requiring that the harasser not volunteer for future Code4KC
 events (either indefinitely or for a certain time period)
 * requiring that the harasser immediately leave the event and not return
 * banning the harasser from future events (either indefinitely or for a
 certain time period)
 * publishing an account of the harassment
 
-Code4Lib event organizers can be identified by their name badges, and will
+Code4KC event organizers can be identified by their name badges, and will
 help participants contact hotel/venue security or local law enforcement,
 provide escorts, or otherwise assist those experiencing harassment to feel
-safe for the duration of the event. Code4Lib IRC volunteers can be identified
-by issuing the `@helpers` command to the #code4lib bot named "zoia".
+safe for the duration of the event.
 
 If an incident occurs, please use the following contact information:
 
-* **Conference organizer:** [ORGANIZER NAME], [PHONE NUMBER]
-* **[CONFERENCE HOTEL NAME]:** [PHONE NUMBER]
-* **[MUNICIPALITY] Police Department**: [PHONE NUMBER]
-* **[LOCAL SEXUAL ASSAULT/CRISIS LINE]:** [PHONE NUMBER]
-* **[TAXI COMPANY NAME]:** [PHONE NUMBER]
-* **IRC channel administrators:** [IRC USERNAMES] (TODO: reference to
-    `@helpers`?)
+* Paul Barham: 816-679-8010
+* Sprint Accelerator: [PHONE NUMBER]
+* Kansas City Police Department: 911 or 816-234-5111
+* MOCSA: Metropolitan Organization to CounterSexual Assult: 816 531-0233, 913 642-0233
+* Yellow Cab: 816 471-5000
+
 
 We expect participants to follow these rules at all conference venues,
 conference-related social events, community gatherings, and online communication channels.
 
-We value your participation in the Code4Lib community, and your efforts to
-keep Code4Lib a safe and friendly space for all participants!
+We value your participation in the Code4KC community, and your efforts to
+keep Code4KC a safe and friendly space for all participants!
 
 *Based on the [example policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment)
 from the [Geek Feminism wiki](http://geekfeminism.wikia.com/), created by the
